@@ -1,0 +1,10 @@
+{
+    "eventName": "UsuarioRegistrado",
+    "version": "1.0",
+    "payload": {
+      "usuarioId": "string",
+      "email": "string",
+      "nombre": "string",
+      "rol": "string"
+    }
+  }

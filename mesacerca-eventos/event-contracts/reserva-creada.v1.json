@@ -1,0 +1,12 @@
+{
+    "eventName": "ReservaCreada",
+    "version": "1.0",
+    "payload": {
+      "reservaId": "string",
+      "restauranteId": "string",
+      "usuarioId": "string",
+      "fechaReserva": "timestamp",
+      "cantidadPersonas": "number",
+      "estado": "string"
+    }
+  }
